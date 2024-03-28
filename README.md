@@ -36,7 +36,7 @@ The analysis offers valuable insights into the Indian startup ecosystem, highlig
 
 **Tools and Technologies**
 
-**Python:**Main programming language used for analysis.
+**Python:** Main programming language used for analysis.
 
 **Pandas & NumPy:** For efficient data manipulation and numerical operations.
 
